@@ -17,3 +17,23 @@ Education
 
 2007-2018
 :   **Gymnasium №37**; Minsk
+
+Skills
+----------
+* HTML
+* CSS
+* GIT
+Code
+----------
+```
+function multiply(a, b){
+return  a * b
+}
+```
+
+Languages
+----------
+* Russian(Native Speaker)
+* English(C1)
+* Polish(C1)
+* Belarussian
